@@ -1,0 +1,58 @@
+{
+    "col1": [
+        {
+            "book": "Bhagavad-Gītā As It Is",
+            "author": "A. C. Bhaktivedanta"
+        },
+        {
+            "book": "The Psychology of Money",
+            "author": "Morgan Housel"
+        },
+        {
+            "book": "Wings Of Fire",
+            "author": " A. P. J. Abdul Kalam"
+        },
+        {
+            "book": "What I Did Not Learn At IIT",
+            "author": "Rajeev Agarwal"
+        },
+        {
+            "book": "Quiet",
+            "author": "Susan Cain"
+        },
+        {
+            "book": "Thinking Fast and Slow",
+            "author": "Daniel Kahneman"
+        },
+        {
+            "book": "India After Gandhi",
+            "author": "Ramchandra Guha"
+        }
+    ],
+    "col2": [
+        {
+            "people": "Gautama Buddha",
+            "wiki": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+        },
+        {
+            "people": "Barack Obama",
+            "wiki": "https://barackobama.com"
+        },
+        {
+            "people": "Nelson Mandela",
+            "wiki": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+        },
+        {
+            "people": "Michael Jordan",
+            "wiki": "https://en.wikipedia.org/wiki/Michael_Jordan"
+        },
+        {
+            "people": "Mahatma Gandhi",
+            "wiki": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+        },
+        {
+            "people": "A.P.J. Abdul Kalam",
+            "wiki": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"
+        }
+    ]
+}
