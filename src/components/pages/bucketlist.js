@@ -25,7 +25,7 @@ class BucketList extends React.Component {
                 {/* <h1>Bucket List</h1> */}
                 <Row md={8} xs={12} style={pad}>
                     <Col>
-                        I was inspired by Chip Hyuen's <a href="https://huyenchip.com/list-100/" target="_blank" rel="noreferrer"> List 100</a> to create and maintain this list.
+                        I was inspired by Chip Hyuen's <a href="https://huyenchip.com/list-100/" target="_blank" rel="noreferrer"> List 100</a> to create and maintain a list.
                         We all have goals and plans towards getting a happy life. Everyone has their own perspective of happiness and success. Everyone has their own stuff to do
                         before they are drop dread.  Most of the things we want to do in our life are well within our capabilities but until we make a realistic plan for our goals,
                         they remain dreams. So, here I am, writing down the collection of all the crazy things I want to do and the moments I want to cherish.  <br />
