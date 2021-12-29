@@ -10,11 +10,8 @@ body {
    /* background-color: rgb(39, 39, 59); */
    /* background-color: #3c006b;
    color: white */
- 
-    padding-bottom: 72px;
-    background-color: #0c0214;
-    color: whitesmoke
-  
+   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 code {
