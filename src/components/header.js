@@ -4,10 +4,10 @@ import { Link } from 'react-router-dom';
 
 class Header extends React.Component {
     render() {
-        const noDecor = {color : "grey"};
+        const noDecor = { color: "inherit"};
         const selectedPage = this.props.page;
         return (
-            <Navbar expand="lg" sticky="top">
+            <Navbar bg="white" expand="lg" sticky="top">
                 <Container >
                     <Navbar.Brand style={noDecor} href="/">Ramakant Yadav</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
